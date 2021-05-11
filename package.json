@@ -1,0 +1,17 @@
+{
+  "name": "babel-webpack-study",
+  "version": "1.0.0",
+  "description": "🦓 learn to use babel and webpack",
+  "main": "index.js",
+  "repository": "https://github.com/bepyan/babel-webpack-study",
+  "author": "bepyan <rlantia97@kumoh.ac.kr>",
+  "license": "MIT",
+  "scripts": {
+    "build": "babel src -w -d dist"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.13.16",
+    "@babel/core": "^7.14.0",
+    "@babel/preset-env": "^7.14.1"
+  }
+}
