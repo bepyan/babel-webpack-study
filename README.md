@@ -7,3 +7,5 @@
 <br/>
 
 ## [🐱 to use Babel](https://www.notion.so/bepyan/Babel-ES6-eded8a435dfb4838ac6892c09ec9c134)
+
+## [🐟 to use Webpack](https://www.notion.so/bepyan/Webpack-22762301edfd4c91990cf4390467dbd9)
